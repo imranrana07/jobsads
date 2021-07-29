@@ -6,3 +6,7 @@ Implement the given API in Android Framework using Kotlin language (Encourage to
 4. 	If “isFeatured” is true, highlight the item.
 
 Technology I used:- Kotlin, Navigation Component, MVVM,Coroutine,Paging3, flow etc
+
+output
+
+![ss4](https://user-images.githubusercontent.com/16866076/127451548-e2d0fd35-3136-4cb8-bc41-2d667ea43e45.png)
